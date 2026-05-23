@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains all code, synthetic data generators, experimental results, and publication figures from the MycoFabric paper submitted to the IEEE International Conference on Data Engineering 2025.
+This repository contains all code, synthetic data generators, experimental results, and publication figures from the MycoFabric paper.
 
 MycoFabric is a mycelium-inspired unified data processing framework that maps six core biological behaviors—hyphal growth, anastomosis, gradient-driven routing, compartmentalisation, symbiosis, and sporulation—onto Microsoft Microsoft Fabric component architecture.
 
